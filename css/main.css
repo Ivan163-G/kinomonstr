@@ -1,0 +1,17 @@
+.section {
+  background-color: red;
+  line-height: 1.5;
+}
+.section span {
+  display: block;
+}
+.section:hover {
+  background-color: red;
+}
+.font {
+  font-style: 20px;
+  text-transform: uppercase;
+}
+.section {
+  background-color: #ff0000;
+}
